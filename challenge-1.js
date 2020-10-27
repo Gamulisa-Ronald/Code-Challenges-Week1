@@ -9,7 +9,7 @@ courseOffered = "Digital Technology";
 //Output the variables
 console.log(
     "Name: " + name  + 
-    " Age: " + age  +  
-    " Place Of Rsidence: " + areaOfResidence + 
-    " Course Offered: " + courseOffered
+    " \nAge: " + age  +  
+    " \nPlace Of Rsidence: " + areaOfResidence + 
+    " \nCourse Offered: " + courseOffered
     )
